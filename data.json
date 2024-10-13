@@ -2,43 +2,53 @@
     "myBudget": [
         {
             "title": "Eat out",
-            "budget": 25
+            "budget": 25,
+            "color": "#ffcd56"
         },
         {
             "title": "Rent",
-            "budget": 275
+            "budget": 275,
+            "color": "#ff6380"
         },
         {
             "title": "Grocery",
-            "budget": 110
+            "budget": 110,
+            "color": "#36a2eb"
         },
         {
             "title": "Gas",
-            "budget": 120
+            "budget": 120,
+            "color": "#fd6b19"
         },
         {
             "title": "Maintenance",
-            "budget": 100
+            "budget": 100,
+            "color": "#800000"
         },
         {
             "title": "Digital Ocean",
-            "budget": 10
+            "budget": 10,
+            "color": "#9A6324"
         },
         {
             "title": "Insurance",
-            "budget": 145
+            "budget": 145,
+            "color": "#fabed4"
         },
         {
             "title": "Pets",
-            "budget": 220
+            "budget": 220,
+            "color": "#ffd8b1"
         },
         {
             "title": "Subscription",
-            "budget": 25
+            "budget": 25,
+            "color": "#3cb44b"
         },
         {
             "title": "Other",
-            "budget": 200
+            "budget": 200,
+            "color": "#aaffc3"
         }
     ]
 }
